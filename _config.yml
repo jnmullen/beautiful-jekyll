@@ -14,8 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Welcome!
-subtitle: James' webpage and blog.
+title: James Mullen
 
 # Short description of your site
 description: A virtual proof that name is awesome!
@@ -76,9 +75,9 @@ social-network-links:
   email: "mail@james-mullen.me.uk"
   github: jnmullen
   twitter: jamesnmullen
+  inkedin: jamesm
 #  reddit: yourname
 #  google-plus: +DeanAttali
-#  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
