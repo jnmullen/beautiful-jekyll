@@ -9,7 +9,7 @@ published: true
 
 This is the first post of what I am hoping will be many! I'm going to try and use this blog to encourage me to write about my experience of moving to the cloud and investigating some tech I have been interested in.
 
-Just over a year ago I started a new job in which pretty much everything was cloud first. This was quite a change to my previous roles where I had either been dealing with large physical server installations (the largest being around 300 servers), or laterly dealing with virtualised ESXi installations. I should probably add I am a developer by day to day trade but in previous roles I have covered installing and configuring the servers/hyper-visors. This interest/need/want to know how to configure the cloud to run the software for problems we are trying to solve today has continued.
+Just over a year ago I started a new job in which pretty much everything was cloud first. This was quite a change to my previous roles where I had either been dealing with large physical server installations (the largest being around 300 servers), or laterly dealing with virtualised ESXi installations. I should probably add I am a developer by day to day trade but in previous roles I have covered installing and configuring the servers/hyper-visors on which the software ran. This interest/need/want to know how to configure the cloud to run the software for problems we are trying to solve today has continued.
 
 Comparing physical server and even ESXi to those serverless technologies I have experienced recently such as Lambda/Kinesis/SQS - they are worlds apart. I no longer have to worry about a number of aspects.
 
