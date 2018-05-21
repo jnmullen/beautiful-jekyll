@@ -13,9 +13,10 @@ Just over one year ago I started a new job in which pretty much everything was c
 
 Comparing physical server and even ESXi technologies to those I have experienced recently such as Lambda/Kinesis/SQS - they are worlds apart.
 
-The thing which becomes so apparant with AWS is the scale at which it operates. Take this recent tweet by Ian Massingham showing some of the volumes of data AWS generate themselves and he later confirmed these figures were from 2016 so image what the data generated is today!
+The thing which becomes so apparant with AWS is the scale at which it operates. Take this recent tweet by Ian Massingham showing some of the volumes of data AWS generate themselves and he later confirmed these figures were from 2016 so imagine what the data generated is today!
 
-<blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">They create 5TB a day that they need to store, yes. BTW at AWS we generate over 40TB per hour just on billing events</p>&mdash; Ian Massingham 🚀 (@IanMmmm) <a href="https://twitter.com/IanMmmm/status/996831753712099328?ref_src=twsrc%5Etfw">16 May 2018</a></blockquote>
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en-gb"><p lang="en" dir="ltr">They create 5TB a day that they need to store, yes. BTW at AWS we generate over 40TB per hour just on billing events</p>&mdash; Ian Massingham 🚀 (@IanMmmm) <a href="https://twitter.com/IanMmmm/status/996831753712099328?ref_src=twsrc%5Etfw">16 May 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 In the year which has passed I have learnt a fair amount about AWS from my day to day work. Along with that day to day experience and some learning time outside of work I managed to pass my first AWS certification - AWS Solution Architect Associate. On the back of this I have already booked the Developer Associate exam.
 
