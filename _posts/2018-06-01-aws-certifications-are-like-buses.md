@@ -1,7 +1,8 @@
 ---
 layout: post
-published: false
+published: true
 title: AWS certifications are like buses
+date: '2018-06-01'
 ---
 
 ## Passed my second AWS certification!
