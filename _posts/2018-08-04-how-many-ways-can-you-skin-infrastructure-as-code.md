@@ -19,8 +19,23 @@ I wondered how easy/different some of the other ways of setting up IAC were and 
 
 I'm going to attempt to setup the following in each of the above IAC frameworks/languages and see what I can learn from the experience:
 
+![AWS Diagram]({{site.baseurl}}/img/lambda-aws.jpeg)
+
 - Single Node.js Lambda Function
 - Cloudwatch Event triggers Lambda daily
 - Lambda has permission to call the following:
 	- Access SSM/Parameter store on well defined path
 	- Write logs to Cloudwatch
+
+I've realised since I started this blog post that trying this in all five technologies might have been a bit optermistic based on the amount of free time I have, therefore I am going to start with Terraform, Serverless Framework and aws-cdk.
+
+## Terraform
+
+Code can be found on github : [Terraform Code](https://github.com/jnmullen/blog-iac-examples/tree/master/terraform)
+
+Terraform is the technology I know the most about and I do use it occasionally in my day job to provision AWS resources. Some people might say it is very verbose but I quite like the fact if you click something in the AWS Console I know I am going to have to write some terraform to create the same resource. There is no magic (in comparison to some of the other later technologies).
+
+In my example I have created in theory a reusable module called __lambda-cloudwatch-trigger__ - the idea being you could then deploy this into multiple environments by creating a set of top level .tf files one per environment. The module has a set of variables in __variables.tf__ which have some sensible defaults but allow you to override these a the point you include the module.
+
+
+## Serverless Framework
