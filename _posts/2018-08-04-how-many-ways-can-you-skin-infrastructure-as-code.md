@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: How many ways can you skin infrastructure as code?
 ---
 ## How many ways can you skin infrastructure as code?
