@@ -3,7 +3,7 @@ layout: post
 published: true
 title: How many ways can you skin infrastructure as code?
 ---
-## How many ways can you skin infrastructure as code?
+## Looking at different frameworks for infrastructure as code
 
 I've been meaning to look into this for a while now knowing there are a number of frameworks/tools available to achieve infrastructure as code. A new one was released only a few weeks ago by AWS [aws-cdk](https://github.com/awslabs/aws-cdk/) which piqued my interest and made me start this post.
 
